@@ -1,0 +1,19 @@
+/* police */
+@font-face {
+  font-family: "Bokor", serif;
+  src: url(./fonts/Bokor-Regular.ttf);
+}
+@font-face {
+  font-family: "Italianno", serif;
+  src: url(./fonts/Italianno-Regular.ttf);
+}
+@font-face {
+  font-family: "Squada One", serif;
+  src: url(./fonts/SquadaOne-Regular.ttf);
+}
+/* Style */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
