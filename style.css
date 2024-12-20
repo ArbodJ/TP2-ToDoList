@@ -55,7 +55,7 @@ input[type="text"] {
   font-weight: 600;
 }
 input[type="text"]:hover {
-  box-shadow: 3px 3px 2px forestgreen;
+  box-shadow: 3px 3px 2px #40ff00, 4px 4px 4px 1px #0d750d;
 }
 footer {
   display: flex;
